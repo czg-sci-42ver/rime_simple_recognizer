@@ -1,0 +1,52 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Jyut6ping3 - 粵拼詞庫
+#
+# 字音數據來源
+# UNICODE HAN DATABASE (UNIHAN) 
+# Version:  Unicode 12.0.0
+# Date:  2019-02-15
+# http://www.unicode.org/reports/tr38/
+#
+# 字音校對參考資料
+# 1. LSHK 字音表
+# 2. 粵音小鏡
+# 3. 廣州話正音字典
+# 4. 常用字廣州話讀音表
+# 5. 粵語審音配詞字庫 https://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/
+# 6. 香港增補字符集 https://www.ogcio.gov.hk/tc/our_work/business/tech_promotion/ccli/hkscs/
+#
+# 詞條數據來源
+# LSHK Jyutping Word List https://corpus.eduhk.hk/JPwordlist/
+# Cantonese dictionary https://words.hk/
+# open Cantonese dictionary http://kaifangcidian.com/han/yue
+# open-source Cantonese-to-English dictionary (CC-Canto) http://www.cccanto.org/
+#
+# 碼表製作與校對人員
+# sgalal <sgalal.me@outlook.com>
+# chaaklau <chaakming@gmail.com>
+# LeiMaau <leimaau@qq.com>
+# laubonghaudoi <laubonghaudoi@icloud.com>
+# tanxpyox <tanxpyox@gmail.com>
+# William915 <William915@gmail.com>
+#
+
+---
+name: email
+version: "2020.08.8"
+sort: by_weight
+use_preset_vocabulary: true
+max_phrase_length: 7
+min_phrase_weight: 100
+# import_tables:
+# - jyutping.phrase
+# - jyutping.lettered
+...
+
+czg	c	
+csabc	c
+dasdas@dsd.com	c
+dasd	w
+asvsv	k
+das	m
